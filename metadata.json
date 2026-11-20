@@ -1,0 +1,6 @@
+{
+  "name": "وِرد | WIRD",
+  "description": "تطبيق مصحف إلكتروني عربي احترافي يعمل دون إنترنت، يضم النص العثماني الموثق من مشروع تنزيل، والتفاسير المعتمدة، والتلاوات، والأذكار، والأدعية، والسبحة، والقبلة، والورد اليومي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
